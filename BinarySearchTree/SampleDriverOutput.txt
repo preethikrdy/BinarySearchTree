@@ -1,0 +1,29 @@
+======== Marker #1 ========
+EMPTY TREE
+Empty Tree?: true
+
+======== Marker #2 ========
+{Arlene:50000}{Oliver:1000}{Terry:60}
+Full Tree?: false
+Size: 3
+
+======== Marker #3 ========
+Maximum: Terry/60
+Minimum: Arlene/50000
+
+======== Marker #4 ========
+Terry/60
+
+======== Marker #5 ========
+Keys: [Arlene, Oliver, Terry]
+Values: [50000, 1000, 60]
+
+======== Marker #6 ========
+Tree: {Arlene:50000}{Oliver:1000}{Terry:60}
+SubTree: {Oliver:1000}{Terry:60}
+
+======== Marker #7 ========
+[60, 50000]
+
+======== Marker #8 ========
+{Arlene:50000}{Oliver:1000}
